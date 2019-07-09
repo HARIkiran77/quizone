@@ -1,10 +1,7 @@
-[
-   {
-	"name" : "harish",
-	"college" : "GRIET"
-   }
-   {
-    "name" : "kiran",
-	"college" "CMR"
-   }
-]
+[{
+	"name": "harish",
+	"college": "GRIET"
+}, {
+	"name": "kiran",
+	"college": "CMR"
+}]
