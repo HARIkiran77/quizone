@@ -1,7 +1,9 @@
 [{
-	"name": "harish",
-	"college": "GRIET"
+	"ques": "Capital of USA",
+	"options" : ["chicago","LA","washington","Newyork"],
+	"ans" : 3
 }, {
-	"name": "kiran",
-	"college": "CMR"
+	"ques": "Capital of Australia",
+	"options" : ["canberra","perth","sydney","NSW"],
+	"ans" : 1
 }]
